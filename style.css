@@ -1,0 +1,196 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+}
+.logo {
+    padding-top: 40px;
+    margin: 0 auto;
+    display: flex;
+}
+a { 
+    text-decoration: none;
+    color:inherit;
+    text-transform: uppercase;
+}
+li {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0 45px;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    margin: 0 auto;
+    width: 1720px;
+    text-align: center;
+    margin-top: 50px;
+}
+.hotel {
+    background-image: url(img/underwater-hotel.jpg);
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+.hoteltxt {
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 150px;
+}
+.dubai {
+    padding-top: 100px;
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    font-style: italic;
+    font-size: 14px;
+    text-align: center;
+}
+.obzor {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 25px;
+    display: flex;
+    margin: 30px auto;
+    width: 100px;
+}
+.obz {
+    display: flex;
+    margin: 0 auto;
+    width: 1220px;
+    margin-bottom: 25px; 
+}
+.anatom { 
+    margin: 0px 30px;
+}
+.monparh {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+.monparp {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+.anatomh {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: orange;
+}
+.anatomp {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+.sferh {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+.sferp {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+
+.skid {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.skidp {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+.abonh {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    width: 550px;
+    height: 550px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: white;
+}
+.abonn {
+    padding-top: 60px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.mestah {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.mestap {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+.aftogh {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.aftogp {
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;  
+}
+button {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    background-color: orange;
+    border: solid black 0px;
+    width: 150px;
+    height: 55px;
+    color: whitesmoke;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.outro {
+    text-align: center;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    margin: 0px auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.menu2 {
+    margin: 30px 0px;
+    
+}
+.inst{
+    display: flex;
+    margin: 0 auto;
+}
+.facebook {
+    display: flex;
+    margin: 0 auto;
+}
+.twitter {
+    display: flex;
+    margin: 0 auto;
+    background-color: white;
+    background-size: 3000px;
+}
+.abonement {
+    background-color: #f8f7f8;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;  
+}
+.circle {
+    position: absolute;
+    margin-left: 430px;
+    width: 600px;
+    height: 600px;
+}
+.logo2 {
+    margin: 0 auto;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
